@@ -1,6 +1,6 @@
 <div>
-  <h1 style="text-align: center">Well hello there 👋 I'm <span style="color: #268AFC">Tommi</span></h1>
-  <h3 style="text-align: center">A passionate full stack developer and a tech enthusiast</h3>
+  <h1 align="center">Well hello there 👋 I'm <img src="images/name.png"></h1>
+  <h3 align="center">A passionate full stack developer and a tech enthusiast</h3>
 </div>
 
 <h2>$ whoami</h2>
@@ -109,11 +109,13 @@
 </div>
 
 <h2>$ contact</h3>
-<div style="display: flex; flex-direction: column; row-gap: 10px; font-size: 18px;">
+<div style="margin-bottom: 10px; font-size: 15px;">
   <a href="https://linkedin.com/in/immosentomppa" target="blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" style="vertical-align: middle;" alt="linkedin" height="20" width="20" /> 
     <span>immosentomppa</span>
   </a>
+</div>
+<div style="margin-bottom: 10px; font-size: 15px;">
   <a href="mailto:tommi@taimmo.fi">
     <img src="icons/at-solid.svg" style="vertical-align: middle; filter: invert(52%) sepia(54%) saturate(5088%) hue-rotate(195deg) brightness(100%) contrast(98%)" alt="email" height="20" width="20" />
     <span>tommi@taimmo.fi</span>
