@@ -8,7 +8,7 @@
 
 <p>I am constantly aiming to learn new things and technologies through my studies, work and hobby projects, and I love whenever I face a problem waiting to be solved. Currently, I am striving to strengthen my skills for example through the widely known Full Stack Open course. Here you can find some of my past projects, but unfortunately all of which I am participating in are not open-source at the moment.</p>
 
-<h2>$ my toolbox</h2>
+<h2>$ toolbox</h2>
 <div style="margin-bottom: 20px;">
   <h3>Frontend</h3>
   <a href="https://www.w3.org/html/" style="text-decoration: none;" target="_blank" rel="noreferrer">
