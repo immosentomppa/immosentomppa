@@ -6,7 +6,7 @@
 <h2>$ whoami</h2>
 <p>I am currently am studying in University of Turku for a Master of Science (Technology), aiming to graduate in the end of 2024. I am specializing in software engineering, with my minor focusing on cyber security of networked systems. I have previously completed a Bachelor of Engineering in Turku University of Applied Sciences, where I specialized in IoT and embedded software.</p>
 
-<p>I am constantly aiming to learn new things and technologies through my studies, work and hobby projects, and I love whenever I face a problem waiting to be solved. Currently, I am striving to strengthen my skills for example through the widely known Full Stack Open course and by being a Webmaster for my student organization Digit ry. Here you can find some of my past projects, but unfortunately all of which I am participating in are not open-source at the moment.</p>
+<p>I am constantly aiming to learn new things and technologies through my studies, work and hobby projects, and I love whenever I face a problem waiting to be solved. Currently, I am striving to strengthen my skills for example through the widely known Full Stack Open course and by being a Webmaster for my student organization Digit ry. Here you can find some of my past projects, but unfortunately all of which I am participating in are not open-source at the moment. Overall, I have 5+ years of experience in web development through school, work and hobby projects.</p>
 
 <h2>$ toolbox</h2>
 <div style="margin-bottom: 20px;">
